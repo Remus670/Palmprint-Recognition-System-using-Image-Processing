@@ -2,7 +2,6 @@
 
 A small project for an image processing class. The goal is to recognize fingerprints by matching them against a small database, using classical computer vision methods (SIFT and a few preprocessing tricks) instead of deep learning. I tried 4 different methods and compared them on a public dataset to see which one works best.
 
-The project does not use any neural network — everything is built with OpenCV, NumPy and matplotlib.
 
 ## Dataset
 
